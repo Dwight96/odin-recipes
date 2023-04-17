@@ -1,0 +1,80 @@
+#title{
+    padding-top: 20%;
+    color: blueviolet;
+    text-align: center;
+    font-weight:bold ;
+    font-family: Arial, sans-serif;
+}
+
+.list{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: purple;
+    border: none;
+    padding: 1em 2em;
+    text-decoration: none;
+    display: inline-block;
+    font-size:22px;
+}
+
+.oildown-list{
+    background-color:red;
+}
+
+.breadpudding-list{
+    background-color: green;
+}
+
+.peanut_punch-list{
+    background-color: yellow;
+}
+
+.oildown,
+.breadpudding,
+.peanutpunch{
+    text-align: center;
+    text-decoration: dashed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.oildown{
+    color: red;
+}
+
+.breadpudding{
+    color:Green;
+}
+
+.peanutpunch{
+    color: yellow;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+p, li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+body{
+    background-color: ;
+    background-image:url(images/Grenada.jpg);
+    background-repeat:repeat;
+    background-attachment: fixed;
+}
+
+button {
+    position: ;
+    margin-top: 100%;
+}
